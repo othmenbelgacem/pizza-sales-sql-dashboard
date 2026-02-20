@@ -97,4 +97,4 @@ The dashboard includes:
 
 Othmen Belgacem  
 Senior Data Consultant 
-Passionate about SQL, Data Analysis & Dashboard Design
+- Passionate about SQL, Data Analysis & Dashboard Design
